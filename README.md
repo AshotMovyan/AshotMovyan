@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
 [<img align="left" alt="VladKalachev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -32,4 +32,6 @@
 <br />
 <br />
 
-[vk]: https://www.youtube.com/
+[vk]: https://vk.com/id598762089
+[youtube]: https://www.youtube.com/channel/UC_P-mkjr1v7DbPINnBF4m1A
+[linkedin]: https://www.linkedin.com/in/ashot-movsisyan-248a2b219/
