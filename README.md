@@ -4,9 +4,9 @@
 
 ## I'm a Game Developer
 - 💪 I like to write code
-- 🎉 I like to play computer games
 - 🥅 I am constantly learning new things
 - 🤹🏽 I love sharing experiences
+- 🎉 I like to play computer games
 
 ### Connect with me:
 
