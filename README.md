@@ -32,4 +32,4 @@
 <br />
 <br />
 
-[vk]https://www.youtube.com/
+[vk]: https://www.youtube.com/
