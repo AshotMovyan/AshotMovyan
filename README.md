@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ashot
 
-![](https://komarev.com/ghpvc/?username=VladKalachev)
+![](https://komarev.com/ghpvc/?username=AshotMovyan)
 
 ## I'm a Game Developer
 - 💪 I like to write code
