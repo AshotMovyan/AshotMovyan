@@ -3,10 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=AshotMovyan)
 
 ## I'm a Game Developer
-- 💪 I like to write code
-- 🥅 I am constantly learning new things
-- 🤹🏽 I love sharing experiences
-
 
 ### Connect with me:
 
