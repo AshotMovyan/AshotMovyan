@@ -1,8 +1,4 @@
-### Hi there 👋, I'm Ashot
-
-![](https://komarev.com/ghpvc/?username=AshotMovyan)
-
-## I'm a Game Developer
+## Game Developer
 
 ### Connect with me:
 
